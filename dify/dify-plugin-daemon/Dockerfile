@@ -1,1 +1,1 @@
-FROM langgenius/dify-plugin-daemon:0.0.10-local
+FROM langgenius/dify-plugin-daemon:0.1.1-local
