@@ -1,1 +1,1 @@
-FROM langgenius/dify-api:1.4.2
+FROM langgenius/dify-api:1.4.3
